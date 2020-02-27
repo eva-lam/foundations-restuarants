@@ -1,0 +1,4 @@
+"Horus,Alt-Treptow",
+"Lode & Stijn,Lausitzer Straße 25",
+"Lavanderia Vecchia,Flughafenstraße 46"
+"Cusine-sushi,Charlottenberg"
